@@ -3,6 +3,7 @@
 # Wifi Server Info
 
 ![Screenshot from 2021-01-14 12-16-43](https://user-images.githubusercontent.com/69615463/104553178-679d1c00-5664-11eb-853d-0cc06c03a31d.png)
+[![python](https://img.shields.io/badge/python-purple.svg)](https://www.python.org/downloads/release/python)
 [![OS](https://img.shields.io/badge/Tested%20On-Linux-purple.svg)](https://en.wikipedia.org/wiki/Linux)
 <h6>Author : RKT</h6>
 
