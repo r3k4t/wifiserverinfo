@@ -8,7 +8,7 @@
 
 WifiServerInfo is a Wifi Server Information Gathering Tool.Its build on python program.
 
-[![python](https://img.shields.io/badge/python-2.7-brightgreen.svg)](https://www.python.org/downloads/release/python/)
+[![python](https://img.shields.io/badge/python-brightgreen.svg)](https://www.python.org/downloads/release/python/)
 [![OS](https://img.shields.io/badge/Tested%20On-Linux-brightgreen.svg)](https://en.wikipedia.org/wiki/Linux)
 
 ### Setup ###
