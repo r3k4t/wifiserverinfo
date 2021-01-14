@@ -7,7 +7,7 @@
 <h6>Author : RKT</h6>
 
 WifiServerInfo is a Wifi Server Information Gathering Tool.Its build on python program.
-
+[![OS](https://img.shields.io/badge/Tested%20On-Linux-purple.svg)](https://en.wikipedia.org/wiki/Linux)
 ### Setup ###
 
 + sudo pip install -r requirements.txt
